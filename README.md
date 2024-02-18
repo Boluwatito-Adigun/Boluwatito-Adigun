@@ -2,7 +2,7 @@
 
 - 👀 With no previous experience, I’m looking for an entry-level cybersecurity position that will foster my drive and thirst for knowledge while protecting critical infrastructures. Just concluding the Google Cybersecurity Certificate, I believe I have the basic skills for entry level positions as I continue to develop my skills and experiences through real life scenarios.
 
-- 🌱 With no previous experience, I’m looking for an entry-level cybersecurity position that will foster my drive and thirst for knowledge while protecting critical infrastructures. Just concluding the Google Cybersecurity Certificate, I believe I have the basic skills for entry level positions as I continue to develop my skills and experiences through real life scenarios.
+- 🌱 I see myself contributing to the security of firms, individuals, and organizations in the years to come. I aim to become a skilled cybersecurity analyst in the next five years, playing a crucial role in fortifying digital defenses.
 
 - 📫 You can reach me at samuelgabby04@gmail.com
 - 😄 Pronouns: He/Him
