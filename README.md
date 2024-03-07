@@ -6,6 +6,6 @@ I am a newbie in the field of Cybersecurity security. I am driven and passionate
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My interest in computer, networks, and softwares has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.  I’m looking for an entry-level cybersecurity position that will foster my drive and thirst for knowledge while protecting critical infrastructures.
 
 ## Skills
