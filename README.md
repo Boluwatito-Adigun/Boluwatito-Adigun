@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @Boluwatito-Adigun and I am a newbie in the field of Cybersecurity security. I am driven and passionate about safeguarding people’s and organization’s data, assets, and  information. I enjoy working with technology, analyzing and solving complex problems.
+# Hello, I'm Boluwatito Adigun
+<a href="https://linkedin.com/in/boluwatito-adigun-42019415b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 👀 With no previous experience, I’m looking for an entry-level cybersecurity position that will foster my drive and thirst for knowledge while protecting critical infrastructures. Just concluding the Google Cybersecurity Certificate, I believe I have the basic skills for entry level positions as I continue to develop my skills and experiences through real life scenarios.
+I am a newbie in the field of Cybersecurity security. I am driven and passionate about safeguarding people’s and organization’s data, assets, and  information. I enjoy working with technology, analyzing and solving complex problems. 
 
-- 🌱 I see myself contributing to the security of firms, individuals, and organizations in the years to come. I aim to become a skilled cybersecurity analyst in the next five years, playing a crucial role in fortifying digital defenses.
 
-- 📫 You can reach me at samuelgabby04@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+## Objective
 
-<!---
-Boluwatito-Adigun/Boluwatito-Adigun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
