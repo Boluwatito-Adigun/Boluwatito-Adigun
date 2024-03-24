@@ -10,3 +10,5 @@ My interest in computer, networks, and softwares has led me to develop a passion
 
 ## Projects
 <a href="https://github.com/Boluwatito-Adigun/Linux-File-Permission">File Permission</a>
+
+<a href="https://github.com/Boluwatito-Adigun/Filtering-SQL-Queries">Filtering SQL Queries</a>
