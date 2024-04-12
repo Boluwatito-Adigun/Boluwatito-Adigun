@@ -9,6 +9,6 @@ I am a newbie in the field of Cybersecurity security. I am driven and passionate
 My interest in computer, networks, and softwares has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.  I’m looking for an entry-level cybersecurity position that will foster my drive and thirst for knowledge while protecting critical infrastructures.
 
 ## Projects
-<a href="https://github.com/Boluwatito-Adigun/Linux-File-Permission">File Permission</a>
+<a href="https://github.com/Boluwatito-Adigun/Linux-File-Permission">Linux File Permission</a>
 
 <a href="https://github.com/Boluwatito-Adigun/Filtering-SQL-Queries">Filtering SQL Queries</a>
